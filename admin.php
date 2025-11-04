@@ -457,7 +457,7 @@ try {
                 <div class="row align-items-center">
                     <div class="col-md-8">
                         <h1 class="fw-bold display-4 text-gradient mb-3">Admin Dashboard</h1>
-                        <p class="text-600 mb-4">Welcome back, <?php echo htmlspecialchars($admin_name); ?>! Manage all aspects of Pawprint Haven Veterinary Clinic</p>
+                        <p class="text-600 mb-4">Hello, <?php echo htmlspecialchars($admin_name); ?>! Manage all aspects of Pawprint Haven Veterinary Clinic</p>
                         
                         <!-- Quick Stats -->
                         <div class="row">
